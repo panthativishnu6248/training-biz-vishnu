@@ -289,3 +289,67 @@ crontab -e
 nano update_commandslist.sh 
 crontab -l
 history
+#1727341703
+git clone git@github.com:panthativishnu6248/training-biz-vishnu.git
+#1727341734
+rm -rf training-biz-vishnu
+#1727341738
+git clone git@github.com:panthativishnu6248/training-biz-vishnu.git
+#1727341751
+ls -al
+#1727341759
+git clone git@github.com:panthativishnu6248/training-biz-vishnu.git
+#1727341798
+cd .ssh
+#1727341812
+ssh-keygen -t rsa -C "key"
+#1727341821
+ls -al
+#1727341832
+cat id_rsa.pub
+#1727341873
+cd ..
+#1727341900
+git clone git@github.com:panthativishnu6248/training-biz-vishnu.git
+#1727341905
+ls -al
+#1727341918
+cd training-biz-vishnu/
+#1727341961
+touch commands.txt
+#1727341964
+ls -al
+#1727342093
+rm commands.txt
+#1727342141
+export HISTTIMEFORMAT="%F %T "
+#1727342175
+source ~/.bashrc
+#1727342184
+history > commandslist.txt
+#1727342186
+ls -al
+#1727342269
+git add commandslist.txt
+#1727342278
+git commit -m 'test'
+#1727342298
+git push -u origin main 
+#1727342356
+crontab -e
+#1727342425
+ls -al
+#1727342442
+nano update_commandslist.sh
+#1727342559
+ls -al
+#1727342652
+crontab -l
+#1727342659
+crontab -e
+#1727342689
+cd ..
+#1727342693
+cd..
+#1727342700
+ sudo bash
