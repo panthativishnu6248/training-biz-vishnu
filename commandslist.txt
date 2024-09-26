@@ -285,3 +285,7 @@ clearr
 history
 clear
 crorn -e
+crontab -e
+nano update_commandslist.sh 
+crontab -l
+history
