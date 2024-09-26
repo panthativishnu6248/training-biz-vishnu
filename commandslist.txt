@@ -272,3 +272,7 @@ vi update_commandslist.sh
 vi /.bashrc
 vi ~/.bashrc
 source ~/.bashrc
+./update_commandslist.sh 
+ls -al
+ls vyskkhs
+lsxbkj
