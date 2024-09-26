@@ -279,3 +279,9 @@ lsxbkj
 cat update_commandslist.sh 
 ls -al
 clear
+history'
+exit
+clearr
+history
+clear
+crorn -e
