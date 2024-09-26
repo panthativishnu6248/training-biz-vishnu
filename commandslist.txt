@@ -250,3 +250,25 @@ echo "INSIDE" >> commandslist.txt
 git add commandslist.txt
 git commit -m 'test'
 git push -u origin main 
+ls -al
+cd training-biz-vishnu/
+ls -al
+nano update_commandslist.sh
+crontab -e
+nano update_commandslist.sh
+ls -al
+cat commandslist.txt
+date
+history > commandslist.txt
+cat commandslist.txt
+nano update_commandslist.sh
+crontab -l
+./update_commandslist.sh
+chmod +x update_commandslist.sh
+./update_commandslist.sh
+date
+./update_commandslist.sh 
+vi update_commandslist.sh 
+vi /.bashrc
+vi ~/.bashrc
+source ~/.bashrc
