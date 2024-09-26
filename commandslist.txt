@@ -353,3 +353,7 @@ cd ..
 cd..
 #1727342700
  sudo bash
+ls -al
+cd training-biz-vishnu/
+ls -al
+ cat update_commandslist.sh 
