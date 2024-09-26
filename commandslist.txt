@@ -1,0 +1,252 @@
+ls -l
+sudo adduser vishnu1
+ls -l
+sudo su - vishnu1
+exit
+su - vishnu1
+sudo su - vishnu1
+exit
+sudo passwd ec2-user
+cd /etc/ssh
+sudo nano sshd_config
+sudo nano /etc/ssh/sshd_config
+cd /etc/ssh
+sudo nano sshd_config
+sudo sshd_config
+passwd vishnu1
+sudo passwd vishnu1
+su - vishnu1
+sudo apt-get update
+sudo apt-get install autossh
+exit
+sudo vi /etc/ssh/sshd_config
+sudo systemctl restart sshd
+sudo su -v vishnu1
+sudo su -vishnu1
+su - vishnu1
+sudo -i
+su -i vishnu1
+su - vishnu1
+cd .ssh
+touch authorized keys
+cat authorized keys
+cat >> authorized keys
+chmod 700 .ssh
+chmod 600 authorized keys
+ls -l
+cat >> authorized_keys
+ls  -al
+exit
+ssh ec2-user@16.171.241.59
+vishnu1@51.20.72.6
+ssh vishnu1@51.20.72.6
+ls -a
+cd .ssh
+ls -l
+ls -a
+cat authorized_keys
+ls -l
+cd ..
+ls -l
+ls -la
+cd .ssh
+vi  authorized_keys
+cat  authorized_keys
+exit
+cd .ssh
+cat authorized_keys
+ls -al
+cat >> authorized_keys
+clear
+sudo yum update
+java -version
+sudo yum install java-21-openjdk-devel
+java -version
+sudo yum install wget -y
+wget https://www.oracle.com/in/database/technologies/xe-downloads.html
+wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+ls
+ls -lh
+ls -al
+sudo yem localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+ls -al
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+wget https://rpmfind.net/linux/almalinux/8.10/AppStream/x86_64/os/Packages/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+ls -al
+sudo yum localinstall compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+sudo /etc/init.d/oracle-xe-21c configure 
+export CV_ASSUME_DISTID=OEL8.4
+# /etc/init.d/oracle-xe-21c configure
+ /etc/init.d/oracle-xe-21c configure
+sudo export CV_ASSUME_DISTID=OEL8.4
+export CV_ASSUME_DISTID=OEL8.4
+sudo /etc/init.d/oracle-xe-21c configure 
+export CV_ASSUME_DISTID=OEL7.8
+ifconfig
+ls -al
+ls -lh
+/etc/ssh/sshd_config
+chmod 700 sshd_config
+sudo cat /etc/ssh/sshd_config
+sudo nano /etc/ssh/sshd_config
+sudo vi /etc/ssh/sshd_config
+cd /opt
+ls -al
+cd oracle
+ls -al
+cd product
+ls -al
+cd 21c
+ls -al
+cd dbhomeXE
+ls -al
+cd cv
+ls -al
+cd admin
+ls -al
+sudo vi cvu_config
+sudo /etc/init.d/oracle-xe-21c configure 
+cd ..
+cd.
+cd ..
+cd..
+cd ..
+cd..
+ sudo /etc/init.d/oracle-xe-21c configure
+sudo /etc/init.d/oracle-xe-21c configure
+sudo service oracle-xe-21c status
+ps aux | grep oracle
+sudo service oracle-xe-21c status
+ps aux | grep oracle
+ps -ef | grep oracle
+sudo pkill -f oracle-xe-21c
+cat commandslisst
+cat commandslist
+history
+sqlplus
+lsnrctl status
+sudo bash
+sqlplus
+history
+exit
+cat commandslist
+lsnrctl status
+tnsping XE
+sudo bash
+sqlplus
+ls 
+imp classicmodels/classicmodels FILE=/home/ec2-user/classicmodels.dmp log=/home/ec2-user/import.log FULL=Y
+ls -al
+cd /opt/oracle/product/21c/dbhomeXE/bin
+imp classicmodels/classicmodels FILE=/home/ec2-user/classicmodels.dmp log=/home/ec2-user/import.log FULL=Y
+exit
+ps -ef | grep pmon
+sudo bash
+sqplplus
+sqlplus
+sudo su - oracle
+netstat -ltnp
+lsnrctl start
+sudo bash
+SELECT instance_name, status FROM v$instance;
+sudo SELECT instance_name, status FROM v$instance;
+sudo bash
+sqlplus
+lsnrctl start
+cd ..
+sudo bash
+SELECT instance_name, status FROM v$instance;
+netstat -ltnp
+tnsping XE
+SUDO BASH
+sudo bash
+sqlplus 
+lsnrctl start
+netstat -ltnp
+source service oracle-xe-21c start
+sudo bash
+vi .bash_profile
+history
+sudo bash
+cat commandslist.txt
+ls
+sudo bash
+#1727269908
+export HISTTIMEFORMAT="%F %T "
+#1727269918
+source ~/.bashrc
+#1727269929
+history > commandslist.txt
+#1727269932
+ls
+#1727269942
+ls -al
+git clone https://github.com/panthativishnu6248/training-biz-vishnu.git
+git --version
+sudo apt update git
+sudo apt install 
+sudo apt install git
+sudo yum install git
+git --version
+git clone https://github.com/panthativishnu6248/training-biz-vishnu.git
+ls -al
+cd repository
+cd training-biz-vishnu
+ls -al
+cd training-biz-vishnu
+pwd
+nano update_commandlists.sh'
+
+
+exit
+
+
+
+
+
+
+
+cd ..
+clear
+
+nano update_commands.sh
+nano update_commandslist.sh
+sudo yum install nano
+nano update_commandslist.sh
+chmod +x update_commandslist.sh
+crontab -e
+/home/ec2-user/training-biz-vishnu/update_commandslist.sh
+history
+ls -al
+nano  update_commandslist.sh
+cd .
+cd ..
+ls -al
+cat commandslist.txt
+ls -al
+cd training-biz-vishnu
+ls -al
+nano update_commandslist.sh 
+nano cron.log
+crontab -e
+nano update_commandslist.sh 
+cd ..
+cp commandslist.txt /home/ec2-user/training-biz-vishnu
+cd training-biz-vishnu
+ls -al
+cat commandslist.txt 
+crontab -l
+nano update_commandslist.sh 
+crontab -l
+crontab -e
+ls -al
+git add commandslist.txt
+git commit -m 'test'
+echo "INSIDE" >> commandslist.txt 
+git add commandslist.txt
+git commit -m 'test'
+git push -u origin main 
