@@ -276,3 +276,6 @@ source ~/.bashrc
 ls -al
 ls vyskkhs
 lsxbkj
+cat update_commandslist.sh 
+ls -al
+clear
