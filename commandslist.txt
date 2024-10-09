@@ -377,3 +377,6 @@ mv mailscripting.sh /home/ec2-user/mailassignment
 mv cpudetails.txt /home/ec2-user/mailassignment
 cd mailassignment
 ls -al
+vi mailscripting.py
+vi mailscripting.sh
+crontab -l
