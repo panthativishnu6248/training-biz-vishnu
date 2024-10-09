@@ -373,3 +373,7 @@ pwd
 mv mailscripting.py /home/ec2-user/mailassignment
 cd ..
 mv mailscripting.py /home/ec2-user/mailassignment
+mv mailscripting.sh /home/ec2-user/mailassignment
+mv cpudetails.txt /home/ec2-user/mailassignment
+cd mailassignment
+ls -al
