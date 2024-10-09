@@ -358,3 +358,11 @@ cd training-biz-vishnu/
 ls -al
  cat update_commandslist.sh 
 python
+ cd home/ec2-usear
+ls -al
+cd /home/ec2-user
+touch mailscripting.py
+touch mailscripting.sh
+touch cpudetails.txt
+ls -al
+cd mailscripting.py
