@@ -366,3 +366,10 @@ touch mailscripting.sh
 touch cpudetails.txt
 ls -al
 cd mailscripting.py
+vi mailscripting.py
+mkdir mailassignment
+cd mailassignment/
+pwd
+mv mailscripting.py /home/ec2-user/mailassignment
+cd ..
+mv mailscripting.py /home/ec2-user/mailassignment
