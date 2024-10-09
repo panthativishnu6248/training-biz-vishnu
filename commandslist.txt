@@ -380,3 +380,8 @@ ls -al
 vi mailscripting.py
 vi mailscripting.sh
 crontab -l
+crontab -e
+ls -al
+cd mailassignment
+ls -al
+pwd
